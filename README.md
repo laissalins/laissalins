@@ -1,150 +1,44 @@
-# 👩‍💻 Laissa Lins
+👩‍💻 Laissa Lins
 
-**`Desenvolvedora em formação`**
+Desenvolvedora em formação | Apaixonada por tecnologia
+Olá! Seja bem-vindo(a) ao meu GitHub! 👋
+Sou estudante de programação e estou construindo minha jornada no desenvolvimento de software. Gosto de aprender coisas novas, explorar tecnologias e transformar conhecimentos em projetos práticos.
 
-Oi! Eu sou a Laissa 👋 Estou começando minha jornada na programação e aprendendo na prática, com o curso do professor Guanabara (Curso em Vídeo).
+Atualmente, estou estudando:
 
-Estou estudando lógica de programação, HTML, CSS, JavaScript e Java, e criando meus primeiros projetos, como um site de paletas de cores.
+- ☕ Java — lógica de programação e orientação a objetos.
+- 🌱 Spring — desenvolvimento com o ecossistema Java.
+- 🌐 HTML — estruturação de páginas web.
+- 🎨 CSS — estilização e responsividade.
+- 💜 Sass — organização e otimização de estilos.
 
-🚀 Meu objetivo é evoluir um pouco a cada dia e construir projetos cada vez melhores.
-🤝 Quero trocar ideias com outras pessoas que estão aprendendo também.
+🚀 Meus objetivos
 
----
+- Evoluir constantemente como desenvolvedora.
+- Desenvolver projetos cada vez mais completos.
+- Aprimorar minhas habilidades em desenvolvimento web e backend.
+- Compartilhar minha evolução e aprender com a comunidade.
 
-    </a> 
-    <a href="https://github.com/Laissalins?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/laissalins?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Laissalins?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Laissalins?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+🛠️ Tecnologias em estudo
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" alt="Sass"/>
+</p>📊 Meu GitHub
 
-### 🤖 Linguagens e Tecnologias
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Laissalins&show_icons=true&theme=radical&locale=pt-br" height="160" alt="Estatísticas do GitHub"/>
+</p><p>
+  <a href="https://github.com/Laissalins?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Laissalins?color=ec4899&style=for-the-badge&label=Estrelas&logo=star" alt="Estrelas"/>
+  </a>
+  <a href="https://github.com/Laissalins?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/Laissalins?color=8b5cf6&style=for-the-badge&label=Seguidores&logo=github" alt="Seguidores"/>
+  </a>
+</p>---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+✨ Um passo de cada vez. Uma linha de código de cada vez. 
 
